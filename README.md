@@ -1,3 +1,1 @@
 # Linux
-
-## Challenge 1
